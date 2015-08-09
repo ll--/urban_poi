@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.314278841018677,
+          48.157511993563745
+        ]
+      },
+      "properties": {
+        "name": "Auer-Welsbach-Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.41506552696228,
+          48.252090922741196
+        ]
+      },
+      "properties": {
+        "name": "Autofreie Mustersiedlung",
+        "description": "http://www.nextroom.at/building.php?id=36018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.39935851097107,
+          48.225494625338065
+        ]
+      },
+      "properties": {
+        "name": "Bike City",
+        "description": "http://www.nextroom.at/building.php?id=31188"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.422017812728882,
+          48.25351609958234
+        ]
+      },
+      "properties": {
+        "name": "Compact City",
+        "description": "http://www.nextroom.at/building.php?id=86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.42050504684448,
+          48.25414116461265
+        ]
+      },
+      "properties": {
+        "name": "Frauen - Werk - Stadt",
+        "description": "http://www.nextroom.at/building.php?id=2643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.427199840545654,
+          48.161891919148275
+        ]
+      },
+      "properties": {
+        "name": "Integretives wohnen",
+        "description": "http://www.nextroom.at/building.php?id=18869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.429860591888428,
+          48.248411711181575
+        ]
+      },
+      "properties": {
+        "name": "KAGRAN-WEST",
+        "description": "1993"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.231924295425415,
+          48.209302846005784
+        ]
+      },
+      "properties": {
+        "name": "MODEL ESTATE HADERSDORF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.41283392906189,
+          48.29629932992456
+        ]
+      },
+      "properties": {
+        "name": "ORASTEIG housing complex"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.465104818344116,
+          48.15737600949692
+        ]
+      },
+      "properties": {
+        "name": "Paulasgasse / Am Hofgartel ",
+        "description": "http://www.nextroom.at/building.php?id=471"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.31647825241089,
+          48.13790509755893
+        ]
+      },
+      "properties": {
+        "name": "Perfektastraße",
+        "description": "http://www.nextroom.at/building.php?id=93\n\nhttp://www.nextroom.at/building.php?id=2835\n\nhttp://www.nextroom.at/building.php?id=3148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.48420214653015,
+          48.22283566468969
+        ]
+      },
+      "properties": {
+        "name": "Pilotengasse",
+        "description": "http://www.nextroom.at/building.php?id=2344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.30517542362213,
+          48.19494399720395
+        ]
+      },
+      "properties": {
+        "name": "Sargfabrik",
+        "description": "http://www.nextroom.at/building.php?id=2631"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34486675262451,
+          48.141463385604766
+        ]
+      },
+      "properties": {
+        "name": "TRAVIATAGASSE"
+      }
+    }
+  ]
+}
